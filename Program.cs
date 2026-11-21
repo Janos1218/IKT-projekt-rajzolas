@@ -125,3 +125,34 @@ namespace KonzolRajzolo
             vaszon[cx, cy] = rajzKarakter;
             vaszonSzin[cx, cy] = szinek[szinIndex];
         }
+        static void Nyomda(int fajta, int sugar)
+        {
+            for (int dy = -sugar; dy <= sugar; dy++)
+                for (int dx = -sugar; dx <= sugar; dx++)
+                    if (NyomdaCella(fajta, dx, dy, sugar))
+                    {
+                        int cx = x + dx, cy = y + dy;
+                        if (cx < 0 || cx >= VaszonSzelesseg || cy < 0 || cy >= VaszonMagassag)
+                        {
+                            Console.Beep();
+                            Uzenet("A nyomda kilóg a rajzlapról!");
+                            return;
+                        }
+                    }
+            for (int dy = -sugar; dy <= sugar; dy++)
+                for (int dx = -sugar; dx <= sugar; dx++)
+                    if (NyomdaCella(fajta, dx, dy, sugar))
+                        Ir(x + dx, y + dy);
+        }
+
+        static bool NyomdaCella(int fajta, int dx, int dy, int sugar)
+        {
+            switch (fajta)
+            {
+                case 0: return Math.Abs(dx) == Math.Abs(dy);                 
+                case 1: return dx == 0 || dy == 0;                           
+                case 2: return Math.Max(Math.Abs(dx), Math.Abs(dy)) == sugar;
+                case 3: return Math.Abs(dx) + Math.Abs(dy) == sugar;         
+                default: return false;
+            }
+        }

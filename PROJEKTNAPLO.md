@@ -4,7 +4,8 @@
 
 | Név vagy GitHub-felhasználónév | Vállalt feladatok és szerep | Saját menüfunkció |
 | --- | --- | --- |
-| Kóti-Jószai Simon | … | … |
+| Kóti-Jószai Simon | Nyomdák elkészítése,
+Szöveges mintafájl elkészítése | Cellák törlése |
 | Németh János | … | … |
 
 ## Közös megállapodások

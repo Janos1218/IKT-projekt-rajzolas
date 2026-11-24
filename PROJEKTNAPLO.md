@@ -17,6 +17,11 @@
 
 | Dátum | Ki | Mi készült el vagy miben állapodtunk meg? | Következő lépés vagy commit |
 | --- | --- | --- | --- |
+| 2026.11.11 | Mindketten | Elolvastuk és értelmeztük a feladatot. A projektet leklónoztuk az iskolai gépekre. | … |
+| 2026.11.12 | Németh János | Repo létrehozása | … |
+| 2026.11.18 | … | … | … |
+| … | … | … | … |
+| … | … | … | … |
 | … | … | … | … |
 
 ## Másik pár tesztje

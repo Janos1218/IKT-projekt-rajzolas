@@ -4,8 +4,8 @@
 
 | Név vagy GitHub-felhasználónév | Vállalt feladatok és szerep | Saját menüfunkció |
 | --- | --- | --- |
-| Kóti-Jószai Simon | Nyomdák elkészítése Szöveges mintafájl elkészítése | Cellák törlése |
-| Németh János | … | … |
+| Kóti-Jószai Simon | Nyomdák elkészítése, Szöveges mintafájl elkészítése | Cellák törlése |
+| Németh János | Menürendszer, Kurzorvezérlés, Állapotjlező panel | Ugrás a tábla közepére |
 
 ## Közös megállapodások
 

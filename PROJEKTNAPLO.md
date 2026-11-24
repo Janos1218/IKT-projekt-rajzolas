@@ -19,10 +19,10 @@
 | --- | --- | --- | --- |
 | 2026.11.11 | Mindketten | Elolvastuk és értelmeztük a feladatot. A projektet leklónoztuk az iskolai gépekre. | … |
 | 2026.11.12 | Németh János | Repo létrehozása | … |
-| 2026.11.18 | … | … | … |
-| … | … | … | … |
-| … | … | … | … |
-| … | … | … | … |
+| 2026.11.18 | Néémeth János | Képernyőelrendezés, rajzlap állapota, paletták, Menü / választólista állapota | … |
+| 2026.11.21 | Mindketten | Billentyűzet, Mozgás, Rajzolás elkészítése: János ; Nyomda elkészítése: Simon | … |
+| 2026.11.22 | Mindketten | Menübillentyű, menü végrehajtás, Lista, Saját feladatok: János; Minta betöltése, Vászon törlése: Simon Maga a szabadkezi rajzolás: Mindketten ; tesztjegyzőkönyv kitöltése: Simon (János diktálta az ő "tapasztalatait") | … |
+| 2026.11.24 | Kóti-Jószai Simon | Projektnapló kitöltése | … |
 
 ## Másik pár tesztje
 

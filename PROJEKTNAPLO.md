@@ -4,8 +4,8 @@
 
 | Név vagy GitHub-felhasználónév | Vállalt feladatok és szerep | Saját menüfunkció |
 | --- | --- | --- |
-| … | … | … |
-| … | … | … |
+| Kóti-Jószai Simon | … | … |
+| Németh János | … | … |
 
 ## Közös megállapodások
 
